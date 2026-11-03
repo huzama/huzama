@@ -2,8 +2,8 @@
 
 I like AI, computers, and figuring out how things work.
 
-My research focuses on making long-context language models cheaper to run. I work on the methods and their implementation, and build systems ranging from the lab’s GPU cluster to my own home cloud.
+Right now, I’m working on making long-context language models faster and less demanding on memory.
 
-Away from the keyboard, I ride a motorbike, do calisthenics, take photos, and read.
+I also tinker with servers: building them, keeping them running, and self-hosting services for notes, photos, and home automation.
 
 [Website](https://huzama.com) · [Projects](https://huzama.com/projects) · [Publications](https://huzama.com/publications) · [CV](https://huzama.com/cv)
