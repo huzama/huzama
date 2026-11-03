@@ -1,20 +1,7 @@
-![Profile Banner](https://github.com/huzama/huzama/assets/34284201/8b350300-5ed5-4a32-91ee-3e1ad9c3115f)
+I like AI, computers, and figuring out how things work.
 
-## About Me
+My research focuses on making long-context language models cheaper to run. I work on the methods and their implementation, and build systems ranging from the lab’s GPU cluster to my own home cloud.
 
-Welcome to my page! I'm **Huzama**, a PhD candidate at the **Kim Jaechul Graduate School of AI** at the Korea Advanced Institute of Science and Technology (KAIST). I am currently conducting research in the **xfact Lab** under the mentorship of **James Thorne**.
+Away from the keyboard, I ride a motorbike, do calisthenics, take photos, and read.
 
-### Research Interests
-
-My research revolves around:
-- Understanding the inner workings of Large Language Models (LLMs)
-- Enhancing the robustness of LLMs
-- Developing personalized LLMs
-
-## Contact
-
-I'm always open to connecting and discussing new ideas! You can reach out to me through the following platforms:
-
-- **[LinkedIn](https://www.linkedin.com/in/huzama)**
-- **[Twitter](https://twitter.com/ihuzama)**
-- **[Email](mailto:chat@huzama.com)**
+[Website](https://huzama.com) · [Projects](https://huzama.com/projects) · [Publications](https://huzama.com/publications) · [CV](https://huzama.com/cv)
